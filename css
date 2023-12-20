@@ -1,0 +1,49 @@
+p{
+    text-align:justify;
+    text-indent: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ h1,h2,h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: #5e5959;
+ }
+ header{
+   background-color: cadetblue;
+   padding: 4px;
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
+   'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
+ header li{
+   display: inline-block;
+   margin: 0 10px;
+ }
+header a{
+   text-decoration: nome;
+   color: white;
+}
+header a:hover{
+   color: rgb(177, 179, 181);
+}
+hr{
+   margin-top: 40px;
+   margin-bottom: 40px;
+}
+.hgroup_center{
+   text-align: center;
+
+}
+.first_button{
+   background-color: #555555;
+   border: none;
+   color: white;
+   padding: 10px 25px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin: 4px 2px;
+   cursor: pointer;
+
+}
